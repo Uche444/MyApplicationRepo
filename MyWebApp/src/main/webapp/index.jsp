@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!</h2>
+<h2>Pushed Application to Github!</h2>
 </body>
 </html>
